@@ -49,3 +49,6 @@ For faster runs of your tests and scripts, consider skipping ts-node's type chec
 
 # REFERENCES
 1. https://dev.to/carlomigueldy/unit-testing-a-solidity-smart-contract-using-chai-mocha-with-typescript-3gcj
+
+
+## JOURNEY
